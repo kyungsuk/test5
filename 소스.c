@@ -4,3 +4,4 @@
 print("fjaljfla");
 print("fjaljfl");
 print("fdjlajfl");
+int a;
