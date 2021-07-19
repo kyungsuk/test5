@@ -5,3 +5,4 @@ print("fjaljfla");
 print("fjaljfl");
 print("fdjlajfl");
 int a;
+a = 1;
